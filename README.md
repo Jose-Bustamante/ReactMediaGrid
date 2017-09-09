@@ -9,10 +9,6 @@
 
 <br />
 
-<div align="center">
-  <sub>Created by <a href="https://github.com/Jose-Bustamante">Jose Bustamante</a>.</sub>
-</div>
-
 ## Features
 
 <dl>
@@ -63,4 +59,8 @@
 Now you're ready to go!
 
 ----
+
+<div align="center">
+  <sub>Created by <a href="https://github.com/Jose-Bustamante">Jose Bustamante</a>.</sub>
+</div>
 
