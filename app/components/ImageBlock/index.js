@@ -6,7 +6,6 @@
 
 import React from 'react';
 import PropTypes from 'prop-types';
-import { pxToRem } from '../../utils/styleUtils';
 import Wrapper from './Wrapper';
 
 
