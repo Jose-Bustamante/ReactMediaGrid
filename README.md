@@ -1,4 +1,4 @@
-<img src="https://assets.lullabot.com/react-juampy.jpg" alt="react boilerplate banner" align="center" />
+<img src="http://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="react boilerplate banner" align="center" />
 
 <br />
 
@@ -25,7 +25,9 @@
   - *Styled-components
   - *MaterialUI
   - *Reselect
+  - *Recompose
   - *ES6
+  - *Higher-Order Component
   
   
   
